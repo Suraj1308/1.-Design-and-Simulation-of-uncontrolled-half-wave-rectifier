@@ -52,12 +52,16 @@ Resistance=0.5 ohm
 Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
+<img width="1053" height="433" alt="image" src="https://github.com/user-attachments/assets/8f0c86b2-9410-4096-904a-8895714d422c" />
+
 
 ## Output
 
+![WhatsApp Image 2025-08-31 at 10 12 47_f416631e](https://github.com/user-attachments/assets/902e79b6-86b4-41f8-a598-2e07db3f2c7c)
+
 ## Result
 
-
+The half-wave rectifier was successfully simulated in MATLAB Simulink, producing apulsating DC output from the positive half cycles of the AC input.
 
 
 
